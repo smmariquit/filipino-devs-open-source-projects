@@ -28,6 +28,7 @@ Add your project in the last line of the table. Then do a pull-request.
 | Project Name | Technology | Description | Maker(s) |
 | ------------ | ---------- | ----------- | ------ |
 | [Filipino Devs Open Source Projects](https://github.com/inbytesdevteam/filipino-devs-open-source-projects) | Awesome List - Readme.md File | List of Filipino Devs Open Source Projects | [InbytesDevTeam](https://github.com/inbytesdevteam) |
+| [Room TBA](https://github.com/uplbtools/room-tba) | Web PWA (Astro, Svelte, Bun, MapLibre) | Open-source campus room finder for UP Los Banos: rooms, schedules, transit routes, offline map | [smmariquit](https://github.com/smmariquit), [Kenramiscal1106](https://github.com/Kenramiscal1106), [klnwlks](https://github.com/klnwlks) |
 
 ## License
 
